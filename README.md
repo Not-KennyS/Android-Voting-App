@@ -29,10 +29,9 @@ The purpose of this application is to implement a system that increases accessib
 - **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
 - **How long**: This course is four steps long and takes less than one hour to complete.
 
-## Platform
-
-Android
 
 endstep0-->
 
+## Platform
 
+Android
