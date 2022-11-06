@@ -25,3 +25,6 @@ Users may cast vote(s) on elections created by an Admin using a configuration of
 
 # Design:
 
+![1](https://user-images.githubusercontent.com/53955832/200150221-4633948e-9341-4efe-80ce-35a9eae35af6.png)
+![2](https://user-images.githubusercontent.com/53955832/200150229-bd1ccbe8-b6f8-442c-940e-52ace0b9b002.png)
+![3](https://user-images.githubusercontent.com/53955832/200150230-6ded08ae-e5eb-48f1-a2ea-49636e19ba49.png)
