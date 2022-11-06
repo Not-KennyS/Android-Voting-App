@@ -13,3 +13,11 @@
 The purpose of this application is to implement a system that increases accessibility and availability of voting and elections while ensuring integrity and security of the vote. Security features consist of multiple forms of biometric identification, location services, and encryption. Before casting a vote, users will need to confirm their identity using biometric identification that matches data kept on file. 
 
 Platform: Android
+
+Functionality:
+Users may cast vote(s) on elections created by an Admin using a configuration of the following features:
+- Facial Recognition (Android 4.0 Icecream Sandwich)
+- Fingerprint scan (Android 8.0 Oreo)
+- Pin/Password
+- Location Services
+- Voice
