@@ -7,8 +7,8 @@
 
 # Secure Voting Application
 
-_Author: David Jones_
-_Saint Leo University COM-437_
+Author: David Jones
+Saint Leo University COM-437
 
 <!-- 
   <<< Author notes: Start of the course >>> 
