@@ -36,4 +36,3 @@ Users may cast votes from any of the elections currently available in the UI. Da
 ![4](https://github.com/Not-KennyS/Android-Voting-App/blob/main/images/4.png?raw=true)
 ![5](https://github.com/Not-KennyS/Android-Voting-App/blob/main/images/5.png?raw=true)
 ![6](https://github.com/Not-KennyS/Android-Voting-App/blob/main/images/6.png?raw=true)
-![7](https://github.com/Not-KennyS/Android-Voting-App/blob/main/images/7.png?raw=true)
