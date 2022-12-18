@@ -30,6 +30,6 @@ Users may cast votes from any of the elections currently available in the UI. Da
 
 # Design
 
-![1](https://user-images.githubusercontent.com/53955832/200150221-4633948e-9341-4efe-80ce-35a9eae35af6.png)
+![1](https://github.com/Not-KennyS/Android-Voting-App/blob/main/images/1.png?raw=true)
 ![2](https://user-images.githubusercontent.com/53955832/200150229-bd1ccbe8-b6f8-442c-940e-52ace0b9b002.png)
 ![3](https://user-images.githubusercontent.com/53955832/200150230-6ded08ae-e5eb-48f1-a2ea-49636e19ba49.png)
